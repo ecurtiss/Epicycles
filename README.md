@@ -1,6 +1,8 @@
 # Epicycles
 Traces images defined by splines using the [Fourier series](https://en.wikipedia.org/wiki/Fourier_series).
 
+<img src="demonstration.gif" alt="demonstration" width="400"/>
+
 There are 3 versions in ServerScriptService:
 1. `Real`: Uses real coefficients for the modes.
 2. `Complex`: Uses complex coefficients for the modes.
