@@ -1,0 +1,4 @@
+[submodule "src/ReplicatedStorage/CatRom"]
+	path = src/ReplicatedStorage/CatRom
+	url = https://github.com/EthanCurtiss/CatRom
+	branch = rewrite
